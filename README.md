@@ -3,7 +3,7 @@
 Physics-informed neural networks (PINNs), also referred to as Theory-Trained Neural Networks (TTNs), are a type of universal function approximators that can embed the knowledge of any physical laws that govern a given data-set in the learning process, and can be described by partial differential equations (PDEs). Low data availability for some biological and engineering problems limit the robustness of conventional machine learning models used for these applications. The prior knowledge of general physical laws acts in the training of neural networks (NNs) as a regularization agent that limits the space of admissible solutions, increasing the generalizability of the function approximation. This way, embedding this prior information into a neural network results in enhancing the information content of the available data, facilitating the learning algorithm to capture the right solution and to generalize well even with a low amount of training examples.
 
 
-![alt text](https://www.researchgate.net/profile/Zhen-Li-105/publication/335990167/figure/fig1/AS:806502679982080@1569296631121/Schematic-of-a-physics-informed-neural-network-PINN-where-the-loss-function-of-PINN.ppm)
+![alt text](pinn.ppm)
 _ _ _
 
 ## Why do we need PINN?
