@@ -73,4 +73,4 @@ Input: x = -3.48, t = 0.00 -> Prediction: ψ = -0.0000, Actual: ψ = 0.9989
 Input: x = -3.38, t = 0.00 -> Prediction: ψ = 0.0000, Actual: ψ = 0.9341
 ```
 
-these are a few relations that that were created by the model
+these are some relations that were created by the model
